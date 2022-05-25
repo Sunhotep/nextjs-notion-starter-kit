@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'faf1fa5862704f809740e21ae8637e5b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '暑研-中文阅读理解(MRC)模型总结',
+  domain: 'https://brazen-swim-193.notion.site/MRC-faf1fa5862704f809740e21ae8637e5b',
+  author: 'He SUN',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
